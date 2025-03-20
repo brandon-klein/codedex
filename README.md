@@ -1,2 +1,2 @@
 # codedex
-Projects from Codédex-Tutrials
+Projects from Codédex-Tutorials
